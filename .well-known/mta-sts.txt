@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: ms-m-jp.mail.protection.outlook.com
+mx: msm-jp0e.mail.protection.outlook.com
 max_age: 86400
